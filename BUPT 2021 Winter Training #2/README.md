@@ -1,3 +1,3 @@
-__Get rank [here](https://vjudge.net/contest/476456#rank)__
+__Get Rank [Here](https://vjudge.net/contest/476456#rank)__
 
-I still don't know how to write _Monotonous queue slope optimization_ í¸­
+I still don't know how to write _Monotonous queue slope optimization_ ðŸ˜­
